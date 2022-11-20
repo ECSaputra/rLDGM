@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1668302528585.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "52F9DFB0",
+    "lastKnownWriteTime" : 1668984493,
+    "last_content_update" : 1668984493779,
+    "path" : "~/side-projects/rLDGM/simulation_LDGM.R",
+    "project_path" : "simulation_LDGM.R",
+    "properties" : {
+        "cursorPosition" : "219,32",
+        "scrollLine" : "205"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

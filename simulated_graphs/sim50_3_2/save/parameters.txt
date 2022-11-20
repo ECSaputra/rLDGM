@@ -1,0 +1,13 @@
+Lee & Hastie simulation using Graph supplied by user
+simulationsDropdownPreference = Lee & Hastie
+minCategories = 3
+maxCategories = 3
+numRuns = 1
+differentGraphs = false
+randomizeColumns = false
+sampleSize = 1000
+saveLatentVars = false
+numCategories = 4
+percentDiscrete = 0.0
+verbose = true
+dataType = categorical

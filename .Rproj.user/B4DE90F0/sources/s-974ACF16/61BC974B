@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1668744745577.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "61BC974B",
+    "lastKnownWriteTime" : 1668984462,
+    "last_content_update" : 1668984462795,
+    "path" : "~/side-projects/rLDGM/functions_LDGM.R",
+    "project_path" : "functions_LDGM.R",
+    "properties" : {
+        "cursorPosition" : "173,0",
+        "scrollLine" : "130"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
